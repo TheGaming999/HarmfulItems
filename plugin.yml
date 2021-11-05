@@ -1,0 +1,9 @@
+main: me.harmfulitems.HarmfulItems
+version: 1.0
+author: Sandwicha
+name: HarmfulItems
+commands:
+  harmfulitems:
+    usage: /<command>
+    description: "Main command of HarmfulItems."
+    aliases: [hi, hitems]

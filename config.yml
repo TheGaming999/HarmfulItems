@@ -1,0 +1,7 @@
+# <ITEM NAME>:<DAMAGE>
+items:
+  STICK: 2.0
+  DIRT: 0.5
+  STONE: 2.5
+  COBBLESTONE: 2.25
+  WOOD: 1.5
